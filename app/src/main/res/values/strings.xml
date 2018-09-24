@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">E-Mading Smanday</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="repass">Confirm Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="login">Login</string>
+    <string name="log_google">Login with Google</string>
+    <string name="signUp">Sign Up</string>
+    <string name="explore">Explore Category</string>
+    <string name="general">General</string>
+    <string name="ipa">IPA</string>
+    <string name="ips">IPS</string>
+    <string name="save">Save Profil Settings</string>
+    <string name="desc">Description</string>
+    <string name="add_post">Add New Post</string>
+    <string name="about">
+        \tThis application was developed by Bariman Susiyanto to qualify graduation of Strata 1 (S1) Program of Informatics Engineering Study at BSI Bandung University.
+        This application was made with Firebase Authentication and Firebase Cloud Firestore technology. \n
+    </string>
+    <string name="lorem">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+        but also the leap into electronic typesetting, remaining essentially unchanged.
+        It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_logout_item">Logout</string>
+    <string name="action_profilset_iten">Profil Settings</string>
+</resources>

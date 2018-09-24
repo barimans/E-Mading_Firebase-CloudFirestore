@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">910211666731-nkdnd2hvlknb09mo7716o06rh3kgokod.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://e-mading-2fabb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">910211666731</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLX4Q08p4WdWhEAku05rYy_oJ55PE9mnA</string>
+    <string name="google_app_id" translatable="false">1:910211666731:android:1bb027574d8c05f0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLX4Q08p4WdWhEAku05rYy_oJ55PE9mnA</string>
+    <string name="google_storage_bucket" translatable="false">e-mading-2fabb.appspot.com</string>
+    <string name="project_id" translatable="false">e-mading-2fabb</string>
+</resources>

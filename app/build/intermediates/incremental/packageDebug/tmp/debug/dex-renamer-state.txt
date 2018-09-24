@@ -1,0 +1,10 @@
+#Tue Aug 14 07:02:48 WIB 2018
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/brizz/AndroidStudioProjects/User_E-Mading/app/build/intermediates/transforms/dexMerger/debug/13
+base.1=/home/brizz/AndroidStudioProjects/User_E-Mading/app/build/intermediates/transforms/dexMerger/debug/12
+base.0=/home/brizz/AndroidStudioProjects/User_E-Mading/app/build/intermediates/transforms/dexMerger/debug/11

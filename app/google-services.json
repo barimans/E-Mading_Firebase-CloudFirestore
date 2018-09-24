@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910211666731",
+    "firebase_url": "https://e-mading-2fabb.firebaseio.com",
+    "project_id": "e-mading-2fabb",
+    "storage_bucket": "e-mading-2fabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910211666731:android:1bb027574d8c05f0",
+        "android_client_info": {
+          "package_name": "com.example.brizz.usermading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910211666731-k29uli6q8tfl91lu215jhboh1925cvpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brizz.usermading",
+            "certificate_hash": "5f1f8a6339727b17b476a7226c1ac440ed3fa6ad"
+          }
+        },
+        {
+          "client_id": "910211666731-nkdnd2hvlknb09mo7716o06rh3kgokod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLX4Q08p4WdWhEAku05rYy_oJ55PE9mnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910211666731-nkdnd2hvlknb09mo7716o06rh3kgokod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

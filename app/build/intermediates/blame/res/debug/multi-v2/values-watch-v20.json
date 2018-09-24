@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/brizz/AndroidStudioProjects/User_E-Mading/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/brizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e9b8db6327141f5e1dc41f03255bea4d/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
